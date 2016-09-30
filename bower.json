@@ -1,7 +1,7 @@
 {
-    "name": "jquery-ajax-unobtrusive",
+    "name": "jquery-sps-ajax-unobtrusive",
     "version": "3.2.4",
-    "homepage": "https://github.com/aspnet/jquery-ajax-unobtrusive",
+    "homepage": "https://github.com/streampoint/jquery-sps-ajax-unobtrusive",
     "description": "Add-on to jQuery Ajax to enable unobtrusive options in data-* attributes",
     "main": [
         "jquery.unobtrusive-ajax.js"
@@ -26,7 +26,7 @@
     "license": "https://www.microsoft.com/web/webpi/eula/net_library_eula_enu.htm",
     "repository": {
         "type": "git",
-        "url": "git://github.com/aspnet/jquery-ajax-unobtrusive.git"
+        "url": "git://github.com/streampoint/jquery-sps-ajax-unobtrusive.git"
     },
     "dependencies": {
         "jquery": ">=1.8"

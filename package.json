@@ -1,6 +1,6 @@
 {
   "name": "jquery-sps-ajax-unobtrusive",
-  "version": "3.2.4.1",
+  "version": "3.2.5",
   "description": "Add-on to jQuery Ajax to enable unobtrusive options in data-* attributes",
   "main": "jquery.unobtrusive-ajax.js",
   "repository": {

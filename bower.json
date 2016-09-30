@@ -1,6 +1,6 @@
 {
     "name": "jquery-sps-ajax-unobtrusive",
-    "version": "3.2.5",
+    "version": "3.2.6",
     "homepage": "https://github.com/streampoint/jquery-sps-ajax-unobtrusive",
     "description": "Add-on to jQuery Ajax to enable unobtrusive options in data-* attributes",
     "main": [
